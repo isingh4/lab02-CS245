@@ -1,2 +1,2 @@
 # lab02-CS245
-This is a sorted array therefore it shows an different index whereas if you unsort it. 
+This is a unsorted array therefore it shows an unsorted index solution whereas if you sort it. 
