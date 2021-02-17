@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Lab02 {
 
 
-    public int[] twoSum(int[] num, int sum) {
+    public int[] twoSum(int[] num, int sum) { //checking to see which two index mataches the specific target.
         int [] sumArray= new int [2];
         int [] error = {-1};
         for (int i = 0; i < num.length-1; i++) {
